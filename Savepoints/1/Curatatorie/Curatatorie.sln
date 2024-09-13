@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curatatorie", "Curatatorie.csproj", "{49124BBE-F568-4565-A434-1638AE938E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49124BBE-F568-4565-A434-1638AE938E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49124BBE-F568-4565-A434-1638AE938E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49124BBE-F568-4565-A434-1638AE938E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49124BBE-F568-4565-A434-1638AE938E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB2197B5-098E-4E40-BB2D-BB15AEA8B7DD}
+	EndGlobalSection
+EndGlobal
